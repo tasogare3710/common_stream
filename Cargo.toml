@@ -1,0 +1,8 @@
+[package]
+name = "common_stream"
+version = "0.1.0"
+authors = ["tasogare3710 <tasogare.android@gmail.com>"]
+edition = "2018"
+
+[dependencies.thiserror]
+version = "=1.0.19"
