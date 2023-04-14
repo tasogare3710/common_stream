@@ -1,6 +1,6 @@
 [package]
 name = "common_stream"
-version = "0.2.0"
+version = "0.3.0"
 authors = ["tasogare3710 <tasogare.android@gmail.com>"]
 edition = "2021"
 
